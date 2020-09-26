@@ -1,5 +1,8 @@
 ### c语言聊天系统客户端GUI
 
+##### 服务器
++[服务器项目地址](https://github.com/quan930/c_im_system_server)
+
 ##### 所用框架
 + cJSON
 + GTK+ 2
