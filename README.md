@@ -10,4 +10,5 @@
 + 单发消息
 + 接收离线消息
 
-
+##### 演示
+![](https://github.com/quan930/c_im_system_client_gui/blob/master/out.gif)
